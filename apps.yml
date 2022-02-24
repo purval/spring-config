@@ -8,6 +8,6 @@ spring:
 ---
 spring:
   profiles: feature
-  data: feature
-  subtreenode1: data1
-  subtreenode2: data2
+  data:
+    subtreenode1: data1
+    subtreenode2: data2
