@@ -5,3 +5,7 @@ spring:
 spring:
   profiles: qa
   data: qa
+---  
+spring:
+  profiles: feature
+  data: feature
