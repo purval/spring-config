@@ -1,12 +1,13 @@
 spring:
   profiles: dev
   data: dev
----  
+---
 spring:
   profiles: qa
   data: qa
----  
+---
 spring:
   profiles: feature
   data: feature
-    subtreenode1:data1
+    subtreenode1: data1
+    subtreenode2: data2
